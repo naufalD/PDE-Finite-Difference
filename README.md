@@ -1,5 +1,5 @@
 ## Introduction
-The finite difference method is used to solve partial diffeerential equations. In this case, we consider the finding the electric potential between charged plates by numerically solving Laplace's equation. This is part of exercise 17.4 in the computational physics textbook by Landau (2015)[^1] on PDEs.
+The finite difference method is used to solve partial diffeerential equations. In this case, we consider the finding the electric potential between charged plates by numerically solving Laplace's equation. This is part of exercise 17.4 in the computational physics textbook by Landau (2015)[^1] on PDEs. This project makes use of Metal shaders for visualization.
 
 ## Theory
 In classical electrodynamics, the electric potential due to a static charge distribution satifies the Poisson's equation in the form of <br/>
