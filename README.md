@@ -22,7 +22,7 @@ $$U(x,y)=\frac{1}{4}(U(x+\triangle,y)+U(x-\triangle,y)+U(x,y+\triangle)+U(x,y-\t
 ## Program Example
 In the below example, we solve the electric potential between 2 rings with Laplace's equation by setting the charge density as 0 everywhere. By using a plane with discrete values we get <br/>
 
-$$U(x,y)=\frac{1}{4}(U_{x+1,y}+U_{x-1,y}+U_{x,y+1}+U_{x,y-1})$$
+$$U_{x,y}=\frac{1}{4}(U_{x+1,y}+U_{x-1,y}+U_{x,y+1}+U_{x,y-1})$$
 
 ![img](media/Charged%20ring.png)
 
